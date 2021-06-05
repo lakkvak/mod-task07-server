@@ -1,0 +1,16 @@
+C:\Users\Lenovo\mod-task07-server\SMO\bin\Debug\net5.0\SMO.exe
+C:\Users\Lenovo\mod-task07-server\SMO\bin\Debug\net5.0\SMO.deps.json
+C:\Users\Lenovo\mod-task07-server\SMO\bin\Debug\net5.0\SMO.runtimeconfig.json
+C:\Users\Lenovo\mod-task07-server\SMO\bin\Debug\net5.0\SMO.runtimeconfig.dev.json
+C:\Users\Lenovo\mod-task07-server\SMO\bin\Debug\net5.0\SMO.dll
+C:\Users\Lenovo\mod-task07-server\SMO\bin\Debug\net5.0\ref\SMO.dll
+C:\Users\Lenovo\mod-task07-server\SMO\bin\Debug\net5.0\SMO.pdb
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net5.0\SMO.csprojAssemblyReference.cache
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net5.0\SMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net5.0\SMO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net5.0\SMO.AssemblyInfo.cs
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net5.0\SMO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net5.0\SMO.dll
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net5.0\ref\SMO.dll
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net5.0\SMO.pdb
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net5.0\SMO.genruntimeconfig.cache
