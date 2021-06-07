@@ -1,0 +1,9 @@
+C:\Users\Lenovo\mod-task07-server\SMO\bin\Debug\net3.0\SMO.exe.config
+C:\Users\Lenovo\mod-task07-server\SMO\bin\Debug\net3.0\SMO.exe
+C:\Users\Lenovo\mod-task07-server\SMO\bin\Debug\net3.0\SMO.pdb
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net3.0\SMO.csprojAssemblyReference.cache
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net3.0\SMO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net3.0\SMO.AssemblyInfo.cs
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net3.0\SMO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net3.0\SMO.exe
+C:\Users\Lenovo\mod-task07-server\SMO\obj\Debug\net3.0\SMO.pdb
